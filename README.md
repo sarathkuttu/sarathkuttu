@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SARATH T V</h1>
 <h3 align="center">Enthusiastic Senior Test Engineer exploring diverse testing methodologies for comprehensive quality assurance.</h3>
 
-<img align="right" alt ="coding" width="400" src = "https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"
+<img align="right" alt ="coding" width="400" src ="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"
 
 - 🔭 I’m currently working on [Wipro Technologies](Standard Bank of South Africa)
 
