@@ -129,7 +129,23 @@ https://linkedin.com/in/sarath-t-v
 
 ## 📈 GitHub Stats
 
-(Keep your existing GitHub Stats widgets)
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=sarathkuttu&show_icons=true&locale=en&layout=compact"
+       alt="sarathkuttu" />
+</p>
+
+<p>
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=sarathkuttu&show_icons=true&locale=en"
+       alt="sarathkuttu" />
+</p>
+
+<p>
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=sarathkuttu&"
+       alt="sarathkuttu" />
+</p>
 
 ---
 
