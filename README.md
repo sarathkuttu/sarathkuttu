@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SARATH T V</h1>
 
-[My Repositories](https://github.com/sarathkuttu?tab=repositories)
+[My Repositories]([https://github.com/sarathkuttu?tab=repositories](https://github.com/sarathkuttu?tab=repositories&q=&type=&language=&sort=stargazers))
 
 <h3 align="center">
 Senior Test Engineer | GenAI Test Engineer | AI Agent & Automation Enthusiast
